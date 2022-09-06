@@ -16,12 +16,13 @@
     border-radius: 5px;
     outline: none;
     background-color: #0a0e1585;
+    color: #fff;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
     &::placeholder {
-        color: #fff;
+        color: rgb(87, 87, 87);
         font-weight: 400;
     }
 }

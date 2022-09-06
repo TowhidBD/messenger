@@ -1,5 +1,4 @@
 import Link from "next/link";
-import React from "react";
 
 const Login = () => {
   return (
@@ -23,7 +22,7 @@ const Login = () => {
               <input
                 type="password"
                 className="form-control"
-                placeholder="Password"
+                placeholder="Enter your Password"
                 required
                 id="password"
               />
